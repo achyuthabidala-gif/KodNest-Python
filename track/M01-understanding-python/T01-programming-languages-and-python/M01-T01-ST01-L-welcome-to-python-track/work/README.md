@@ -55,3 +55,35 @@ Programming helps me: Think logically, solve problems, and give instructions to 
 Python helps me: Convert my logic into executable code and build real-world applications.
 
 Syntax tells me: The rules I need to follow while writing a program correctly.
+
+**1. Why does a computer need instructions?**
+
+A computer needs instructions to know what to do and how to perform a task correctly.
+
+**2. Why is normal human language not enough for writing computer programs?**
+
+Because human language can be confusing and have different meanings. Computers need clear and specific instructions.
+
+**3. What does a computer ultimately execute?**
+
+A computer ultimately executes machine language instructions in the form of binary (0s and 1s).
+
+**4. Why is writing complete applications in machine language difficult?**
+
+Because machine language uses only 0s and 1s, making it very difficult to read, write, understand, and debug.
+
+**5. How does a programming language act as a bridge?**
+
+A programming language acts as a bridge between humans and computers by allowing humans to write instructions that computers can understand after translation.
+
+**6. Why do programming languages have syntax rules?**
+
+Programming languages have syntax rules to make sure instructions are written in a correct and understandable format.
+
+**7. How do programming languages make complex applications manageable?**
+
+They divide complex problems into smaller tasks using functions, classes, and modules, making programs easier to develop and maintain.
+
+**8. Where does Python fit between a problem and computer execution?**
+
+Python acts as a bridge between a problem and computer execution. We write instructions in Python, and the Python interpreter processes them so the computer can execute them.
